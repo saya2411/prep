@@ -1,0 +1,77 @@
+/* div{
+    width:200px;
+    height:100px;
+    border: 10px solid;
+    background-color: blueviolet;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.cbox{
+    box-sizing: content-box;
+}
+.bbox{
+    box-sizing: border-box;
+}
+
+body{
+    position: relative;
+}*/
+
+
+.box{
+    display: inline-block;
+    border: 2px solid;
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    margin: 5px;  
+}
+
+body{
+    background-color: black;
+}
+
+#box3{
+    /* visibility: hidden; */
+    /* display:none; */
+}
+#box2{
+    /* position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 4; */
+}
+
+#box2{
+    /* border-radius:50%; */
+}
+.card{
+    /* display: flex;
+    justify-content: center;
+    align-items:center; */
+    
+}
+/* .box{
+    height: 20px;
+    width:20px;
+    margin-bottom:20px;
+    margin-left: 50%;
+    border:2px solid black;
+} */
+
+/* .dabba{
+    margin:auto;
+    height: 20px;
+    width: 20px;
+    border: 2px solid blue;
+} */
+
+
+.dabba{
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+    margin-top: 300px;
+    margin-left: 700px;
+    
+}
